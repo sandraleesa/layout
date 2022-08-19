@@ -1,0 +1,13 @@
+.semi {
+    color: rgba(0,0,0,0.5)
+}
+.col{
+    color: black;
+}
+.button {
+    border: 2px solid cornflowerblue;
+    background: white;
+    border-radius: 2px;
+    color: cornflowerblue;
+    height: 40px;
+   }
